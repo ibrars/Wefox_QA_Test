@@ -4,6 +4,7 @@
 
 I have just written Automated UI tests, because I am performing tests that interact directly with the user interface to check that the actions that the user will perform in the web browser have the result we expect.
 
+As the UI tests simulate the interaction that a user would have with the application, the **advantages** are that this execution can be shown to the client, who can understand which tests are executed and it can also detect high severity errors. It can also test functionalities that would be very difficult or impossible to test with another type of test. The main **cons** I see is that these end-to-end tests are much slower, they take longer to run. They also require a several time to implement (although in the long-term it usually pays off) and also, it is more likely that some failures that occur are caused by external causes and not by an error in the logic, i.e. sometimes the tests do not represent the reality at 100%.
 
 ##### Outline the possibilities of automating these specific test cases in different scopes, together with a short summary of the pros and cons of each of them.
 
