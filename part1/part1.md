@@ -24,6 +24,4 @@ The use case that I would explore first would be to make the reservation correct
 In addition, when it comes to prioritizing a use case, it's necessary to prioritize those that may cause a security problem, a problem at an economic level and also take into account whether the image of the company/brand may be affected.
 
 ### Kind of risks that need to be mitigated
-The main type of risk to mitigate in this type of application is ...¿?
-
-Avoid that the user pays for a service and due to failures of the application the service is not provided, or the user is overcharged, we also have to mitigate security issues, such as avoiding data theft, since the application handles sensitive data (especially those related to payment data). It is also necessary to prevent the page from crashing while the user is browsing. It is also important to avoid violating any regulations
+The main type of risk to mitigate in this type of application is to avoid that the user pays for a service and due to failures of the application the service is not provided, or the user is overcharged, we also have to mitigate security issues, such as avoiding data theft, since the application handles sensitive data (especially those related to payment data). It is also necessary to prevent the page from crashing while the user is browsing. It is also important to avoid violating any regulations
